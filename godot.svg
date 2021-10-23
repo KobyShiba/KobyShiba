@@ -2,7 +2,7 @@
 <svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" aria-label="...">...
  <g class="layer">
   <title>Layer 1</title>
-  <rect fill="#fff" height="512" id="svg_1" rx="50%" width="512"/>
+  <rect fill="#fff" height="512" id="svg_1" rx="0%" width="512"/>
   <g id="svg_25" transform="matrix(1.20865 0 0 1.20865 -52.8645 -51.8645)">
    <svg height="388.1" id="svg_2" version="1.1" width="960" x="52.964829" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" y="63.147337">
     <title>Godot Game engine logo</title>
