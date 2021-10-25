@@ -7,8 +7,11 @@ Hello I am Koby. I am a 20 year old, 2nd Year Software Developer Student from Ma
 
 ## Socials
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50" title="Twitter" /> @KobyDoggo
+
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram" /> Ask
+
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord" /> Ask
+
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="50" title="GitHub" /> @KobyShiba
 
 ## OS'
