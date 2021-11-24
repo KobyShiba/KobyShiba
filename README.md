@@ -5,6 +5,13 @@ Koby
 ## About Me
 Hello I am Koby. I am a 20 year old, 2nd Year Software Developer Student from Manchester.
 
+## Experience
+
+<img src="https://avatars.githubusercontent.com/u/81010210" width="65" title="BunFanGames"/> <br>
+Intern @bunfan Nov 2021 - current <br>
+<img src="https://mma.prnewswire.com/media/750367/TVS_Logo.jpg" width="65" title="TVS"/> <br>
+Intern @TVS Aug 2018 - Dec 2019 <br>
+
 ## Socials
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="25" title="Twitter" /> @KobyDoggo | <br>
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25" title="Telegram" /> Ask | <br>
